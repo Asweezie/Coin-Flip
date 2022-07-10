@@ -31,6 +31,7 @@ function flipCoin() {
 
 function flipCoinSound() {
     const audio = new Audio('coinflip.mp3')
+    audio.volume = .3;
     audio.play();
 }
 
