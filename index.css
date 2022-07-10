@@ -1,0 +1,32 @@
+body {
+    height: 100%;
+    font-size: 2rem;
+
+}
+
+div {
+    display: flex;
+    
+    justify-content: center;
+    
+}
+
+.heads {
+    margin-right: 10px;
+    
+}
+
+.tails {
+    margin-left: 10px;
+    
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    
+    
+}
+#flip {
+    width: 150px;
+}
